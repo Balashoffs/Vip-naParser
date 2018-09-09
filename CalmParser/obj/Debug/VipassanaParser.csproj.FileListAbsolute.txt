@@ -1,0 +1,10 @@
+C:\Users\User\Downloads\htmlparservipassana\workParser\VipassanaParser\bin\Debug\VipassanaParser.exe.config
+C:\Users\User\Downloads\htmlparservipassana\workParser\VipassanaParser\bin\Debug\VipassanaParser.exe
+C:\Users\User\Downloads\htmlparservipassana\workParser\VipassanaParser\bin\Debug\VipassanaParser.pdb
+C:\Users\User\Downloads\htmlparservipassana\workParser\VipassanaParser\obj\Debug\VipassanaParser.csprojAssemblyReference.cache
+C:\Users\User\Downloads\htmlparservipassana\workParser\VipassanaParser\obj\Debug\VipassanaParser.Form1.resources
+C:\Users\User\Downloads\htmlparservipassana\workParser\VipassanaParser\obj\Debug\VipassanaParser.Properties.Resources.resources
+C:\Users\User\Downloads\htmlparservipassana\workParser\VipassanaParser\obj\Debug\VipassanaParser.csproj.GenerateResource.cache
+C:\Users\User\Downloads\htmlparservipassana\workParser\VipassanaParser\obj\Debug\VipassanaParser.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\htmlparservipassana\workParser\VipassanaParser\obj\Debug\VipassanaParser.exe
+C:\Users\User\Downloads\htmlparservipassana\workParser\VipassanaParser\obj\Debug\VipassanaParser.pdb
